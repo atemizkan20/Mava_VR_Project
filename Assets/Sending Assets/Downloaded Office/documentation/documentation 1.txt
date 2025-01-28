@@ -1,0 +1,25 @@
+Documentation for "Low poly detective's office".
+
+Pack includes assets which are ready to use, do what you want with them.
+
+Some models need to have applied materials:
+map model  -> 'map' material
+globe model  -> 'globe' material
+board model -> 'board' material
+painting  model->'painting' material
+roof of the house  -> 'roof' material
+outsiede of the house -> 'outside' material
+walls inside of the house -> 'stripes' material
+tag model -> 'world' material
+glass windows and door models -> 'glass' material
+sign model -> 'sign' material
+and bulb from fan model -> 'light' material
+
+There is no specfic method in using all assets, use them as u like.
+If u need help e-mail me :
+mctla112@gmail.com
+
+
+
+
+
